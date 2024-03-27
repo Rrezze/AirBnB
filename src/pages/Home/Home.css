@@ -1,7 +1,12 @@
 .home{
+    padding: 0px !important;
     text-align: center;
     background-image: url(../../../src/utility/images/img-app.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
+}
+.lower-fold{
+    padding-left: 50px;
+    padding-right: 50px;
 }
